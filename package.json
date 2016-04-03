@@ -1,0 +1,27 @@
+{
+  "name": "simpleServer",
+  "version": "1.0.0",
+  "description": "Very simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rawad-alawar/simpleServer.git"
+  },
+  "author": "Rawad Al-awar",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/rawad-alawar/simpleServer/issues"
+  },
+  "homepage": "https://github.com/rawad-alawar/simpleServer",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
