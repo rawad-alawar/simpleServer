@@ -5,6 +5,7 @@ var path = require('path')
 var fs = require('fs')
 
 
+
 ///Array of Mime Types
 var mimeTypes = {
   "html" : "text/html",
